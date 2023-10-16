@@ -26,8 +26,8 @@ python main.py
 
 **Underlying Math**
 
-```math
-Total Units: 100 '\n'
+```
+Total Units: 100 
 Total Bill : 1000/-
 m1 : 50 units
 m2: 100 units
